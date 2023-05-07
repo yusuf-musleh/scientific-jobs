@@ -4,7 +4,7 @@ import random
 
 from pyworker.job import Job
 
-RANDOMLY_FAIL_PERCENT = 0.2
+RANDOMLY_FAIL_PERCENT = 0.05
 
 
 class SimpleJob(Job):
