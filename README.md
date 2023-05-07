@@ -1,6 +1,6 @@
 # README
 
-This is a basic Python app that runs a job worker powered by [pyworker](https://github.com/yusuf-musleh/pyworker) that processes jobs that are enqueued from Ruby on Rails's [DelayedJob](https://github.com/collectiveidea/delayed_job).
+This is a basic Python app that runs a job worker powered by [pyworker](https://github.com/yusuf-musleh/pyworker) that processes jobs that are enqueued from this Ruby on Rails [project](https://github.com/yusuf-musleh/scientific-app).
 
 ## Getting Started
 
