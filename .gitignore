@@ -1,0 +1,27 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Project specific
+myapp/settings/local.py
+.env
+
+# IDE specific
+.vscode/
+*.idea/
+
+# Miscellaneous
+*.log
+*.pot
+*.pyc
+*.swp
+*.DS_Store
